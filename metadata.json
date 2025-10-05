@@ -1,0 +1,5 @@
+{
+  "name": "AI Professional Image Generator",
+  "description": "A web application that leverages the Gemini API to generate high-quality, professional images from user-provided text prompts with configurable options like aspect ratio and quantity.",
+  "requestFramePermissions": []
+}
